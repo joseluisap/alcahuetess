@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>RangeDoppler</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>antenna.py</name>
+			<type>1</type>
+			<location>C:/Documents and Settings/Jose/Mis documentos/programas/python/RangeDoppler/antenna.py</location>
+		</link>
+		<link>
+			<name>createscene.py</name>
+			<type>1</type>
+			<location>C:/Documents and Settings/Jose/Mis documentos/programas/python/RangeDoppler/createscene.py</location>
+		</link>
+		<link>
+			<name>platform.py</name>
+			<type>1</type>
+			<location>C:/Documents and Settings/Jose/Mis documentos/programas/python/RangeDoppler/platform.py</location>
+		</link>
+	</linkedResources>
+</projectDescription>
